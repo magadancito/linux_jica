@@ -11,7 +11,8 @@ RUN /programas/Miniconda3-latest-Linux-x86_64.sh -b
 RUN rm -r /programas/
 ENV PATH=/root/miniconda3/bin:${PATH}
 
-RUN conda install -c bioconda -y fastqc fastp spades
+RUN conda install -c bioconda -y fastqc 
+#RUN conda install -c bioconda fastp spades
 #RUN conda create -n quast quast -c bioconda
 #RUN conda create -n rnaquast rnaquast -c bioconda 
 #RUN apt install -y nano git
