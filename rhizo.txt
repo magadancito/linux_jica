@@ -1,0 +1,50 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+#!genome-build RPHCH2410v2
+#!genome-build-accession NCBI_Assembly:GCF_000268285.2
+#!annotation-date 04/03/2017 11:24:06
+#!annotation-source NCBI 
+##sequence-region NZ_CM003278.1 1 367697
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1128399
+RhiNZ_CM003278.1	RefSeq	region	1	367697	.	+	.	ID=id0;Dbxref=taxon:1128399;Is_circular=true;Name=pRphCh2410a;collection-date=Aug-2000;country=Mexico: Cholula%2C Puebla;gbkey=Src;genome=plasmid;isolation-source=maize stem;mol_type=genomic DNA;plasmid-name=pRphCh2410a;strain=Ch24-10
+RhiNZ_CM003278.1	RefSeq	gene	183	506	.	-	.	ID=gene0;Name=RPHASCH2410_RS30305;gbkey=Gene;gene_biotype=protein_coding;locus_tag=RPHASCH2410_RS30305;old_locus_tag=RPHASCH2410_PA00005
+RhiNZ_CM003278.1	Protein Homology	CDS	183	506	.	-	0	ID=cds0;Parent=gene0;Dbxref=Genbank:WP_016736955.1;Name=WP_016736955.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_008530136.1;product=type II toxin-antitoxin system RelE/ParE family toxin;protein_id=WP_016736955.1;transl_table=11
+RhiNZ_CM003278.1	RefSeq	gene	506	787	.	-	.	ID=gene1;Name=RPHASCH2410_RS30310;gbkey=Gene;gene_biotype=protein_coding;locus_tag=RPHASCH2410_RS30310;old_locus_tag=RPHASCH2410_PA00010
+RhiNZ_CM003278.1	Protein Homology	CDS	506	787	.	-	0	ID=cds1;Parent=gene1;Dbxref=Genbank:WP_016736954.1;Name=WP_016736954.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_008530137.1;product=type II toxin-antitoxin system Phd/YefM family antitoxin;protein_id=WP_016736954.1;transl_table=11
+RhiNZ_CM003278.1	RefSeq	gene	1006	1998	.	+	.	ID=gene2;Name=RPHASCH2410_RS30315;gbkey=Gene;gene_biotype=protein_coding;locus_tag=RPHASCH2410_RS30315;old_locus_tag=RPHASCH2410_PA00015
+RhiNZ_CM003278.1	Protein Homology	CDS	1006	1998	.	+	0	ID=cds2;Parent=gene2;Dbxref=Genbank:WP_016736953.1;Name=WP_016736953.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_008523062.1;product=LLM class flavin-dependent oxidoreductase;protein_id=WP_016736953.1;transl_table=11
+RhiNZ_CM003278.1	RefSeq	gene	2024	3373	.	+	.	ID=gene3;Name=RPHASCH2410_RS30320;gbkey=Gene;gene_biotype=protein_coding;locus_tag=RPHASCH2410_RS30320;old_locus_tag=RPHASCH2410_PA00020
+RhiNZ_CM003278.1	Protein Homology	CDS	2024	3373	.	+	0	ID=cds3;Parent=gene3;Dbxref=Genbank:WP_016736952.1;Name=WP_016736952.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_011427631.1;product=FMN-dependent monooxygenase;protein_id=WP_016736952.1;transl_table=11
+RhiNZ_CM003278.1	RefSeq	gene	3392	4591	.	+	.	ID=gene4;Name=RPHASCH2410_RS30325;gbkey=Gene;gene_biotype=protein_coding;locus_tag=RPHASCH2410_RS30325;old_locus_tag=RPHASCH2410_PA00025
+RhiNZ_CM003278.1	Protein Homology	CDS	3392	4591	.	+	0	ID=cds4;Parent=gene4;Dbxref=Genbank:WP_016736951.1;Name=WP_016736951.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_008523058.1;product=amidohydrolase;protein_id=WP_016736951.1;transl_table=11
+RhiNZ_CM003278.1	RefSeq	gene	4600	5151	.	+	.	ID=gene5;Name=RPHASCH2410_RS30330;gbkey=Gene;gene_biotype=protein_coding;locus_tag=RPHASCH2410_RS30330;old_locus_tag=RPHASCH2410_PA00030
+RhiNZ_CM003278.1	Protein Homology	CDS	4600	5151	.	+	0	ID=cds5;Parent=gene5;Dbxref=Genbank:WP_029532086.1;Name=WP_029532086.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004676156.1;product=N-acetyltransferase;protein_id=WP_029532086.1;transl_table=11
+RhiNZ_CM003278.1	RefSeq	gene	5188	6963	.	+	.	ID=gene6;Name=RPHASCH2410_RS33670;gbkey=Gene;gene_biotype=protein_coding;locus_tag=RPHASCH2410_RS33670;old_locus_tag=RPHASCH2410_PA00035
+RhiNZ_CM003278.1	Protein Homology	CDS	5188	6963	.	+	0	ID=cds6;Parent=gene6;Dbxref=Genbank:WP_080956222.1;Name=WP_080956222.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_011427634.1;product=ABC transporter ATP-binding protein;protein_id=WP_080956222.1;transl_table=11
+RhiNZ_CM003278.1	RefSeq	gene	7056	8000	.	+	.	ID=gene7;Name=RPHASCH2410_RS30345;gbkey=Gene;gene_biotype=protein_coding;locus_tag=RPHASCH2410_RS30345;old_locus_tag=RPHASCH2410_PA00040
+RhiNZ_CM003278.1	Protein Homology	CDS	7056	8000	.	+	0	ID=cds7;Parent=gene7;Dbxref=Genbank:WP_016736949.1;Name=WP_016736949.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_017997715.1;product=ABC transporter substrate-binding protein;protein_id=WP_016736949.1;transl_table=11
+RhiNZ_CM003278.1	RefSeq	gene	8072	9010	.	+	.	ID=gene8;Name=RPHASCH2410_RS30350;gbkey=Gene;gene_biotype=protein_coding;locus_tag=RPHASCH2410_RS30350;old_locus_tag=RPHASCH2410_PA00045
+RhiNZ_CM003278.1	Protein Homology	CDS	8072	9010	.	+	0	ID=cds8;Parent=gene8;Dbxref=Genbank:WP_016736948.1;Name=WP_016736948.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_003572500.1;product=ABC transporter substrate-binding protein;protein_id=WP_016736948.1;transl_table=11
+RhiNZ_CM003278.1	RefSeq	gene	9027	10061	.	+	.	ID=gene9;Name=RPHASCH2410_RS30355;gbkey=Gene;gene_biotype=protein_coding;locus_tag=RPHASCH2410_RS30355;old_locus_tag=RPHASCH2410_PA00050
+RhiNZ_CM003278.1	Protein Homology	CDS	9027	10061	.	+	0	ID=cds9;Parent=gene9;Dbxref=Genbank:WP_016736947.1;Name=WP_016736947.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_012556317.1;product=LLM class flavin-dependent oxidoreductase;protein_id=WP_016736947.1;transl_table=11
+RhiNZ_CM003278.1	RefSeq	gene	10128	10724	.	+	.	ID=gene10;Name=RPHASCH2410_RS30360;gbkey=Gene;gene_biotype=protein_coding;locus_tag=RPHASCH2410_RS30360;old_locus_tag=RPHASCH2410_PA00055
+RhiNZ_CM003278.1	Protein Homology	CDS	10128	10724	.	+	0	ID=cds10;Parent=gene10;Dbxref=Genbank:WP_016736946.1;Name=WP_016736946.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_011654265.1;product=2-hydroxychromene-2-carboxylate isomerase;protein_id=WP_016736946.1;transl_table=11
+RhiNZ_CM003278.1	RefSeq	gene	10834	11394	.	+	.	ID=gene11;Name=RPHASCH2410_RS30365;gbkey=Gene;gene_biotype=protein_coding;locus_tag=RPHASCH2410_RS30365;old_locus_tag=RPHASCH2410_PA00060
+RhiNZ_CM003278.1	Protein Homology	CDS	10834	11394	.	+	0	ID=cds11;Parent=gene11;Dbxref=Genbank:WP_016736945.1;Name=WP_016736945.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_016736945.1;product=FMN reductase;protein_id=WP_016736945.1;transl_table=11
+RhiNZ_CM003278.1	RefSeq	gene	11429	11617	.	+	.	ID=gene12;Name=RPHASCH2410_RS30370;gbkey=Gene;gene_biotype=protein_coding;locus_tag=RPHASCH2410_RS30370;old_locus_tag=RPHASCH2410_PA00065
+RhiNZ_CM003278.1	Protein Homology	CDS	11429	11617	.	+	0	ID=cds12;Parent=gene12;Dbxref=Genbank:WP_016736944.1;Name=WP_016736944.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_004676151.1;product=hypothetical protein;protein_id=WP_016736944.1;transl_table=11
+RhiNZ_CM003278.1	RefSeq	gene	11957	12538	.	+	.	ID=gene13;Name=RPHASCH2410_RS30375;gbkey=Gene;gene_biotype=protein_coding;locus_tag=RPHASCH2410_RS30375;old_locus_tag=RPHASCH2410_PA00070
+RhiNZ_CM003278.1	Protein Homology	CDS	11957	12538	.	+	0	ID=cds13;Parent=gene13;Dbxref=Genbank:WP_016736940.1;Name=WP_016736940.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_016736940.1;product=serine hydrolase family protein;protein_id=WP_016736940.1;transl_table=11
+RhiNZ_CM003278.1	RefSeq	gene	12550	12858	.	+	.	ID=gene14;Name=RPHASCH2410_RS30380;gbkey=Gene;gene_biotype=protein_coding;locus_tag=RPHASCH2410_RS30380;old_locus_tag=RPHASCH2410_PA00075
+RhiNZ_CM003278.1	Protein Homology	CDS	12550	12858	.	+	0	ID=cds14;Parent=gene14;Dbxref=Genbank:WP_016736939.1;Name=WP_016736939.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_003591583.1;product=hypothetical protein;protein_id=WP_016736939.1;transl_table=11
+RhiNZ_CM003278.1	RefSeq	gene	12862	13632	.	+	.	ID=gene15;Name=RPHASCH2410_RS30385;gbkey=Gene;gene_biotype=protein_coding;locus_tag=RPHASCH2410_RS30385
+RhiNZ_CM003278.1	Protein Homology	CDS	12862	13632	.	+	0	ID=cds15;Parent=gene15;Dbxref=Genbank:WP_016736938.1;Name=WP_016736938.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_016736938.1;product=gamma-glutamylcyclotransferase;protein_id=WP_016736938.1;transl_table=11
+RhiNZ_CM003278.1	RefSeq	gene	13691	14545	.	-	.	ID=gene16;Name=RPHASCH2410_RS30390;gbkey=Gene;gene_biotype=protein_coding;locus_tag=RPHASCH2410_RS30390;old_locus_tag=RPHASCH2410_PA00085
+RhiNZ_CM003278.1	Protein Homology	CDS	13691	14545	.	-	0	ID=cds16;Parent=gene16;Dbxref=Genbank:WP_016736937.1;Name=WP_016736937.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_012556326.1;product=taurine ABC transporter permease;protein_id=WP_016736937.1;transl_table=11
+RhiNZ_CM003278.1	RefSeq	gene	14542	15330	.	-	.	ID=gene17;Name=tauB;gbkey=Gene;gene=tauB;gene_biotype=protein_coding;locus_tag=RPHASCH2410_RS30395;old_locus_tag=RPHASCH2410_PA00090
+RhiNZ_CM003278.1	Protein Homology	CDS	14542	15330	.	-	0	ID=cds17;Parent=gene17;Dbxref=Genbank:WP_016736936.1;Name=WP_016736936.1;Note=Part of the ABC transporter complex tauABC involved in taurine import;gbkey=CDS;gene=tauB;inference=COORDINATES: similar to AA sequence:RefSeq:WP_011427645.1;product=ABC transporter ATP-binding protein;protein_id=WP_016736936.1;transl_table=11
+RhiNZ_CM003278.1	RefSeq	gene	15389	16402	.	-	.	ID=gene18;Name=RPHASCH2410_RS30400;gbkey=Gene;gene_biotype=protein_coding;locus_tag=RPHASCH2410_RS30400;old_locus_tag=RPHASCH2410_PA00095
+RhiNZ_CM003278.1	Protein Homology	CDS	15389	16402	.	-	0	ID=cds18;Parent=gene18;Dbxref=Genbank:WP_016736935.1;Name=WP_016736935.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_003591588.1;product=taurine ABC transporter substrate-binding protein;protein_id=WP_016736935.1;transl_table=11
+RhiNZ_CM003278.1	RefSeq	gene	16604	17974	.	+	.	ID=gene19;Name=RPHASCH2410_RS30405;gbkey=Gene;gene_biotype=protein_coding;locus_tag=RPHASCH2410_RS30405;old_locus_tag=RPHASCH2410_PA00100
+RhiNZ_CM003278.1	Protein Homology	CDS	16604	17974	.	+	0	ID=cds19;Parent=gene19;Dbxref=Genbank:WP_016736934.1;Name=WP_016736934.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_016736934.1;product=hypothetical protein;protein_id=WP_016736934.1;transl_table=11
